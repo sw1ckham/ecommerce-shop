@@ -1,0 +1,1 @@
+**This is the start of my personal project - an shop to sell my templates and plugs ins - with documentation and demos! 
